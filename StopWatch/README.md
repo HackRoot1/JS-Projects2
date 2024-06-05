@@ -1,30 +1,48 @@
-<h1 align="center">Hi 👋, I'm Saurabh Damale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Stopwatch Project
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=hackroot1&label=Profile%20views&color=0e75b6&style=flat" alt="hackroot1" /> 
-</p>
+## Overview
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hackroot1" alt="hackroot1" />
-    </a> 
-</p>
+This project is a stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch allows users to measure elapsed time accurately and provides functionalities such as start, stop, and reset. It offers a simple yet effective way to track time intervals.
 
-<p align="left"> 
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-    </a> 
-</p>
+## Demo
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot1&show_icons=true&locale=en&layout=compact" alt="hackroot1" />
-</p>
+Explore the live demo of the stopwatch [here](https://stop-watch-azure-theta.vercel.app/).
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hackroot1&show_icons=true&locale=en" alt="hackroot1" />
-</p>
+## Features
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackroot1&" alt="hackroot1" />
-</p>
+- **Accurate Time Measurement:** Measures elapsed time with precision.
+- **Start, Stop, and Reset:** Allows users to start, stop, and reset the stopwatch as needed.
+- **Clear Display:** Provides a clear and easy-to-read interface for displaying elapsed time.
+- **Responsive Design:** Adapts to different screen sizes for seamless usage on various devices.
+
+## Technologies Used
+
+- **HTML:** Defines the structure of the stopwatch interface.
+- **CSS:** Styles the stopwatch for an attractive and user-friendly design.
+- **JavaScript:** Implements the logic for time measurement and user interactions.
+
+## Usage
+
+1. Open the `index.html` file in a web browser.
+2. Click the "Start" button to initiate the stopwatch.
+3. Click the "Stop" button to pause the stopwatch.
+4. Click the "Reset" button to reset the stopwatch to zero.
+
+## Project Structure
+
+- **index.html:** The main HTML file that defines the structure of the stopwatch interface.
+- **style.css:** The CSS file that styles the stopwatch interface.
+- **script.js:** The JavaScript file that contains the logic for time measurement and user interactions.
+
+## Getting Started
+
+To run this project locally, clone the repository and open the `index.html` file in a web browser.
+
+```bash
+git clone clone https://github.com/HackRoot1/JS-Projects.git
+cd StopWatch
+```
+
+## Contributing
+
+If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
